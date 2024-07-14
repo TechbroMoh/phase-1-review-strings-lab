@@ -1,0 +1,198 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 10,
+    "passes": 10,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-07-14T00:19:38.799Z",
+    "end": "2024-07-14T00:19:39.233Z",
+    "duration": 434
+  },
+  "tests": [
+    {
+      "title": "is defined",
+      "fullTitle": "index.js currentUser is defined",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"Welcome to Flatbook, \"",
+      "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the value of the 'currentUser' variable",
+      "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point!",
+      "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"WELCOME TO FLATBOOK, \"",
+      "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the value of the 'currentUser' variable",
+      "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point",
+      "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"Welcome, \"",
+      "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the first initial of the name stored in the 'currentUser' variable",
+      "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point",
+      "fullTitle": "index.js shortGreeting ends with an exclamation point",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "is defined",
+      "fullTitle": "index.js currentUser is defined",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"Welcome to Flatbook, \"",
+      "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the value of the 'currentUser' variable",
+      "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point!",
+      "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"WELCOME TO FLATBOOK, \"",
+      "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the value of the 'currentUser' variable",
+      "fullTitle": "index.js excitedWelcomeMessage contains the value of the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point",
+      "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains \"Welcome, \"",
+      "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the first initial of the name stored in the 'currentUser' variable",
+      "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "ends with an exclamation point",
+      "fullTitle": "index.js shortGreeting ends with an exclamation point",
+      "file": "/home/user/Development/code/Phase-1/phase-1-review-strings-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
